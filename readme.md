@@ -53,3 +53,6 @@ document.querySelector('input').addEventListener('keyup', function () {
   broadcaster.setContent(this.value);
 });
 ```
+
+## Screenshot
+![app in action](./twb.png)
